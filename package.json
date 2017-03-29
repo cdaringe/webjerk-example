@@ -1,0 +1,16 @@
+{
+  "name": "webjerk-example",
+  "version": "1.0.0",
+  "description": "example of how to use webjerk Edit",
+  "main": "src/index.js",
+  "repository": "git@github.com:cdaringe/webjerk-example.git",
+  "author": "cdaringe <christopher.dieringer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "perish": "^1.0.1",
+    "webjerk": "^0.0.1",
+    "webjerk-saucie": "^0.0.1"
+  },
+  "devDependencies": {}
+}
