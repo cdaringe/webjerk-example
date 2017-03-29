@@ -2,7 +2,8 @@
 logs
 *.log
 npm-debug.log*
-webdrivercss
+webdrivercss/diff
+*.regression.png
 
 # Runtime data
 pids

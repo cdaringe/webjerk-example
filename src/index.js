@@ -8,7 +8,7 @@ wj.run({
       name: 'webjerk-snaps',
       config: {
         desiredCapabilities: [
-          { browserName: 'chrome' },
+          { browserName: 'safari' },
           { browserName: 'firefox' }
         ],
         url: 'http://localhost:3333',
